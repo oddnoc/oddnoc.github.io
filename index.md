@@ -6,8 +6,8 @@ I make sure our team can solve complex problems in [Silverstripe][3], and have c
 
 ## Tech factoids
 
-* Apple user since 1977
-* FreeBSD user and admin since 2.0.5 (1995)
+* [Apple](https://www.apple.com) user since 1977
+* [FreeBSD](https://www.freebsd.org) user and admin since 2.0.5 (1995)
 * [Oh My Zsh][5] user since 2019
 
 [1]: http://en.memory-alpha.org/wiki/Montgomery_Scott

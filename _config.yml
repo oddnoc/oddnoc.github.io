@@ -1,7 +1,8 @@
+version: 2.0.0
 title: Fred Condo’s Github
 description: Building better websites since 1994
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
