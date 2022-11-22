@@ -4,11 +4,14 @@ I earned my Ph.D. in the Management of Information Systems and Cognitive Psychol
 
 I make sure our team can solve complex problems in [Silverstripe][3], and have contributed to the Silverstripe [framework][4] and related projects. I’m always trying to make hard things easy and impossible things possible.
 
+
 ## Tech factoids
 
 * [Apple](https://www.apple.com) user since 1977
 * [FreeBSD](https://www.freebsd.org) user and admin since 2.0.5 (1995)
 * [Oh My Zsh][5] user since 2019
+
+Follow me on <a rel="me" href="https://tech.lgbt/@odnoc"><img src="assets/mastodon-logo.svg" width="38" height="40" /></a>
 
 [1]: http://en.memory-alpha.org/wiki/Montgomery_Scott
 [2]: http://quinn.com
